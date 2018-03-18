@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="world-cup-album_main" target="1.8" />
+      <module name="world-cup-album_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
